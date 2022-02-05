@@ -1,0 +1,17 @@
+cls = limpar
+dir = listar
+rmdir /S / Q = remover repositorio
+rmdir = remover arquivo
+echo > = criar arquivos
+mkdir = criar pasta
+cd = navegar
+ls -a = arquivos ocultos
+cd .. = voltar um nivel
+git init = criando um repositório
+mv = mover
+git commit -m "msg"= passar uma msg
+git remote add origin = adicionar no github
+git push origin master = empurar para o github 
+git pull origion master = puxar do github
+git clone = clonar
+git remote -v = ver repositorio
